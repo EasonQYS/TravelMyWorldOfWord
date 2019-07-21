@@ -37,10 +37,10 @@ An app to learn English words and expressions.
 </br>
 </br>
 </br>
-<img src="image/level1.png" width="480" height="300">
-<img src="image/game1.png" width="480" height="300">
+<img src="image/level1.PNG" width="480" height="300">
+<img src="image/game1.PNG" width="480" height="300">
 </br>
-<img src="image/game2.png" width="480" height="300">
-<img src="image/set.png" width="480" height="300">
+<img src="image/game2.PNG" width="480" height="300">
+<img src="image/set.PNG" width="480" height="300">
 
 </html>
