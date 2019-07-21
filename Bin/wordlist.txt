@@ -1,0 +1,570 @@
+abandon	 v.放弃；抛弃
+abstract	 a.抽象的 n.摘要
+academy	 n.研究院；学院；学会
+access	n.接近；入口
+accommodate	 v.容纳；给…提供住宿；使适应
+accompany	 v.陪伴；伴随
+accumulate	 v.积累
+accurate	 a.准确的
+achieve	 v.完成；达到
+acknowledge	 v.承认；致谢
+acquire	 v.获得
+adapt	 v.使适应；改编
+adequate	 a.足够的
+adjacent	 a.毗连的；紧接着的
+adjust	 v.调整；修改
+administration	 n.管理；管理局；行政；政府
+adult	 n.&a.成人
+advocate	 n.拥护者 v.拥护
+affect	 v.影响
+aggregate	 a.总的 n.总计 v.总计
+aid	 v.帮助 n.帮助；助手
+albeit	 conj.虽然
+allocate	 v.分派
+alter	 v.改变
+alternative	 n.替代物 a.选择的
+ambiguous	 a.模棱两可的
+amend	 v.修订；改过自新
+analogy	 a.类似；比拟；类推
+analyze	 v.分析
+annual	 a.每年的 n.年鉴
+anticipate	 v.预料
+apparent	 a.明显的
+append	 v.附上
+appreciate	 v.欣赏；感激
+approach	 v.靠近 n.方法
+appropriate	 a.恰当的
+approximate	 a.近似的 v.与…近似
+arbitrary	 a.任意的；专断的
+area	 n.地区；面积；领域
+aspect	 n.方面；面貌
+assemble	 v.集合；装配；收集
+assess	 v.对…估价；评价
+assign	 v.指定；分配
+assist	 v.帮助
+assume	 v.假设；认为；承担；呈现
+assure	 v.向…保证
+attach	 v.系；贴；使附加；使依恋
+attain	 v.达到；获得
+attitude	 n.态度；姿势
+attribute	 v.把…归因于 n.性质
+author	 n.作者；作家；创始人
+authority	 n.当局；权威；权力
+automate	 v.使自动化
+available	 a.可得到的
+aware	 a.意识到的
+behalf	 n.利益
+benefit	 n.利益；津贴 v.有利于；获益
+bias	 n.偏见；爱好
+bond	 n.纽带；债券
+brief	 a.简短的
+bulk	 n.体积；主体
+capable	 a.能够；有能力的
+capacity	 n.容量；潜在能力
+category	 n.种类；范畴
+cease	 n.&v.停止
+challenge	 n.挑战
+channel	 n.海峡；渠道；频道
+chapter	 n.章
+chart	 n.图表 v.制图表
+chemical	 a.化学的 n.化学药品
+circumstance	 n.情况
+cite	 v.引用
+civil	 a.公民的；国内的；民用的
+clarify	 v.阐明
+classic	 n.名著 a.古典的
+clause	 n.条款；从句
+code	 n.法典；代码；习俗
+coherent	 a.一致的；连贯的
+coincide	 v.巧合，同时发生
+collapse	 v.&n.倒坍；瓦解
+colleague	 n.同事
+commence	 v.开始
+comment	 n.&v.评论；注释
+commission	 n.委员会；委托；委托书；佣金
+commit	 v.犯罪
+commodity	 n.日用品
+communicate	 v.通信；交流
+community	 n.社区；社会；界
+compatible	 a.和睦的；兼容的
+compensate	 v.补偿
+compile	 v.编
+complement	 v.&n.补充
+complex	 a.复杂的
+component	 n.组成部分 a.组成的
+compound	 n.化合物 a.复合的
+comprehensive	 a.综合的
+comprise	 v.包含；构成
+compute	 v.计算
+conceive	 v.构思；怀胎；认为 
+concentrate	 v.集中；浓缩
+concept	 n.概念
+conclude	 v.结束；下结论
+concurrent	 a.同时发生的；并存的
+conduct	 n.行为 v.实施；指挥；导电
+confer	 v.授予；协商
+confine	 v.限制；禁闭
+confirm	 v.证实
+conflict	 n.冲突 v.冲突
+conform	 v.遵守；符合
+consent	 n.&v.同意
+consequent	 a.作为结果的
+considerable	 a.相当的
+consist	 v.由…组成
+constant	 a.不断的
+constitute	 v.构成
+constrain	 v.限制；强制
+construct	 v.建造
+consult	 v.商量；咨询；查阅
+consume	 v.消耗；消费
+contact	 v.&n.接触；联系
+contemporary	 a.当代的 n.同代人
+context	 n.上下文；背景
+contract	 n.合同 v.收缩
+contradict	 v.反驳；与…矛盾
+contrary	 a.&n.相反
+contrast	 n.对比 v.形成对比
+contribute	 v.捐献；贡献；投稿
+controversy	 n.争论
+convene	 v.召集
+converse	 a.相反的
+convert	 v.转化
+convince	 v.使确信
+cooperate	 v.合作
+coordinate	 a.同等的 v.使协调
+core	 n.核心
+corporate	 a.公司的
+correspond	 v.通信；符合；对应
+couple	 n.两个；夫妇
+create	 v.创造；引起
+credit	 n.信用；学分；功劳
+criterion	 n.标准
+crucial	 a.决定性的
+culture	 n.文化；修养
+currency	 n.货币
+cycle	 n.循环；周期
+data	 n.数据
+debate	 n.&v.辩论
+decade	 n.十年
+decline	 v.谢绝；下倾；衰退 n.衰退
+deduce	 v.演绎
+define	 v.给…下定义；明确
+definite	 a.明确的
+demonstrate	 v.表明；演示；示威
+denote	 v.表示
+deny	 v.否认
+depress	 v.使沮丧
+derive	 v.引伸；起源
+design	 v.设计 n.设计；图案
+despite	 prep.尽管
+detect	 v.发觉；检测
+deviate	 v.背离
+device	 n.装置；设计
+devote	 v.致力；为…献身
+differentiate	 v.区分
+dimension	 n.尺寸；维
+diminish	 v.减少
+discrete	 a.分离的
+discriminate	 v.区别；歧视
+displace	 v.移置；置换
+display	 v.&n.展览；显示
+dispose	 v.处置
+distinct	 a.清晰的；独特的；不同的
+distort	 v.歪曲；扭曲
+distribute	 v.分发；分配；分布
+diverse	 a.多样的
+document	 n.文件 v.引证
+domain	 n.领域；域；版图
+domestic	 a.国内的；家庭的
+dominate	 v.支配
+draft	 n.草稿 v.起草
+drama	 n.戏剧
+duration	 n.持续时间
+dynamic	 a.有活力的
+economy	 n.经济；节约
+edit	 v.编辑
+element	 n.元素；要素
+eliminate	 v.消灭；消除
+emerge	 v.出现
+emphasis	 n.强调
+empirical	 n.经验的
+enable	 v.使能够
+encounter	 v.&n.遇到
+energy	 n.精力；能量
+enforce	 v.实施；强制
+enhance	 v.增强
+enormous	 a.巨大的；大量的
+ensure	 v.保证
+entity	 n.实体
+environment	 n.环境
+equate	 v.使相等；使平等
+equip	 v.装备
+equivalent	 a.相等的 n.等值物
+erode	 v.腐蚀
+error	 n.错误
+establish	 v.建立；确立
+estate	 n.房地产；财产 
+estimate	 v.估计 n.
+ethic	 n.伦理
+ethnic	 n.种族的
+evaluate	 v.对…估价；评价
+eventual	 a.最后的
+evident	 a.明显的
+evolve	 v.进化；演变
+exceed	 v.超过
+exclude	 v.排除
+exhibit	 v.显示；展览 n.展览
+expand	 v.扩大；膨胀
+expert	 n.专家 a.熟练的
+explicit	 a.明晰的；详述的；直率的
+exploit	 v.剥削；利用；开采 n.功绩
+export	 v.出口 n.出口；出口商品
+expose	 v.暴露；揭露；使接触
+external	 a.外部的
+extract	 v.取出；榨取 n.摘录
+facilitate	 v.使容易；促进
+factor	 n.因素；因子
+feature	 n.特征；容貌
+federal	 a.联邦的；联盟的
+fee	 n.费
+file	 n.档案；文件；锉
+final	 a.最后的；决定性的
+finance	 n.财政；金融 v.给…提供资金
+finite	 a.有限的
+flexible	 a.易弯曲的；灵活的
+fluctuate	 v.波动
+focus	 v.集中 n.焦点；焦距
+format	 n.格式
+formula	 n.公式
+forthcoming	 a.即将到来的
+found	 v.创立；建立
+foundation	 n.创立；基础；基金会
+framework	 n.框架；体制
+function	 n.功能；函数 v.运行
+fund	 n.基金
+fundamental	 a.基础的；根本的
+furthermore	 ad.此外
+gender	 n.性别
+generate	 v.产生
+generation	 n.一代；产生
+globe	 n.球；地球
+goal	 n.球门；目标
+grade	 n.等级；年级；成绩
+grant	 n.授予物；拨款；助学金 v.授予
+guarantee	 n.&v.保证
+guideline	 n.方针
+hence	 ad.因此
+hierarchy	 n.等级制度
+highlight	 n.精华 v.强调
+hypothesis	 n.假设；假说
+identical	 a.同一的
+identify	 v.认出；识别
+ideology	 n.思想体系；意识形态
+ignorance	 n.无知；不知道
+illustrate	 v.举例说明；图解
+image	 n.像；图像；形象
+immigrate	 v.移民入境
+impact	 n.碰撞；影响
+implement	 n.工具 v.贯彻
+implicate	 v.暗示；使牵连
+implicit	 a.含蓄的；内含的
+imply	 v.暗示
+impose	 v.征(税)；强加
+incentive	 n.&a.刺激
+incidence	 n.发生
+incline	 n.斜坡 v.使倾斜；使倾向
+income	 n.收入
+incorporate	 v.合并
+index	 n.索引；指标；指数
+indicate	 v.表明
+individual	 n.个人；个体 a.单个的；独特的
+induce	 v.劝诱；导致
+inevitable	 a.不可避免的
+infer	 v.推断
+infrastructure	 n.基础设施
+inherent	 a.固有的
+inhibit	 v.抑制
+initial	 a.最初的 n.首字母
+initiate	 v.开始；启蒙
+injure	 v.使受伤
+innovate	 v.创新
+input	 v.&n.输入
+insert	 v.插入 n.插页
+insight	 n.洞察力；见识
+inspect	 v.检查；视察
+instance	 n.例子
+institute	 n.研究所；学院 v.设立
+instruct	 v.教；指导
+integral	 a.整体的
+integrate	 v.使结合
+integrity	 n.诚信；完整
+intelligence	 n.智力；情报
+intense	 a.强烈的
+interact	 v.相互作用
+intermediate	 a.中间的；中级的
+internal	 a.内部的
+interpret	 v.解释；口译
+interval	 n.间隔；休息
+intervene	 v.干预
+intrinsic	 a.内在的
+invest	 v.投资
+investigate	 v.调查
+invoke	 v.恳求；实施
+involve	 v.使卷入
+isolate	 v.隔离；孤立
+issue	 n.问题 v.发行
+item	 n.条款；条
+job	 n.工作
+journal	 n.杂志
+justify	 v.证明…有理
+label	 n.标签；标记
+labor	 n.&v.劳动
+layer	 n.层
+lecture	 n.&v.讲课；讲座
+legal	 a.合法的；法律的
+legislate	 v.为…立法
+levy	 v.征收 n.税款
+liberal	 a.自由的；开明的 n.开明的人
+license	 n.执照
+likewise	 ad.同样地
+link	 v.连接 n.链；环节
+locate	 v.使位于；找到
+logic	 n.逻辑
+maintain	 v.维持；维修
+major	 a.较大的；主要的 n.专业 v.专修
+manipulate	 v.操作；操纵
+manual	 a.手的；体力的 n.手册
+margin	 n.页边距；边缘；余地
+mature	 a.&v.成熟
+maximize	 v.使最大化
+mechanism	 n.机制
+media	 n.媒体
+mediate	 v.调停
+medical	 a.医学的
+medium	 n.媒质；中间 a.中等的
+mental	 a.精神的；脑力的
+method	 n.方法
+migrate	 v.迁移
+military	 a.军事的
+minimal	 a.最小的
+minimize	 v.使最小化
+minimum	 n.最小量 a.最小的
+ministry	 n.部
+minor	 a.次要的 n.辅修专业 v.辅修
+mode	 n.模式
+modify	 v.修改；修饰
+monitor	 n.班长；显示器 v.监视
+motive	 n.动机 a.运动的
+mutual	 a.相互的；共同的
+negate	 v.否定
+network	 n.网络
+neutral	 a.中立的；中性的
+nevertheless	 ad.然而
+nonetheless	 ad.然而
+norm	 n.标准
+normal	 a.正常的；正规的
+notion	 n.概念；想法
+notwithstanding	 prep.&conj.虽然
+nuclear	 a.核的；核心的
+objective	 a.客观的 n.目标
+obtain	 v.获得
+obvious	 a.明显的
+occupy	 v.占；使忙碌
+occur	 v.发生；出现；想起
+odd	 a.奇怪的；奇数的；临时的
+offset	 n.分支 v.抵消
+ongoing	 n.进行中的
+option	 n.选择
+orient	 n.东方 v.给…定位
+outcome	 n.结果
+output	 n.产量；输出
+overall	 n.工作服 a.总体的
+overlap	 v.重叠
+overseas	 ad.&a.海外
+panel	 n.专门小组；面板
+paradigm	 n.范例
+paragraph	 n.段落
+parallel	 a.平行的 v.使平行
+parameter	 n.参数
+participate	 v.参加
+partner	 n.伙伴
+passive	 a.被动的；消极的
+perceive	 v.感觉到；理解
+percent	 n.百分之…
+period	 n.时期；句号
+persist	 v.坚持；持续
+perspective	 n.角度；观点
+phase	 n.阶段
+phenomenon	 n.现象
+philosophy	 n.哲学
+physical	 a.物质的；身体的；物理的
+plus	 prep.加 n.加号
+policy	 n.政策
+portion	 n.部分；份 v.分
+pose	 v.摆姿势；提出 n.姿势
+positive	 a.肯定的；积极的；正的；阳性的
+potential	 a.潜在的 n.潜力
+practitioner	 n.开业者
+precede	 v.先于；优先于
+precise	 a.精确的
+predict	 v.预言
+predominant	 a.占优势的；主要的
+preliminary	 a.预备的；初步的 n.初试；预赛
+presume	 v.假定
+previous	 a.先前的
+primary	 a.初级的；主要的 
+prime	 a.首要的 n.全盛时期
+principal	 a.主要的 n.校长
+principle	 n.原则
+prior	 a.在先的
+priority	 n.在先；重点
+proceed	 v.继续进行
+process	 n.过程 v.加工
+professional	 a.职业的 n.专业人员
+prohibit	 v.禁止
+project	 n.项目；工程 v.投射
+promote	 v.促进；提升；促销
+proportion	 n.比例；相称
+prospect	 n.前景 v.勘探
+protocol	 n.协议；礼仪
+psychology	 n.心理学
+publication	 n.出版；出版物
+publish	 v.出版
+purchase	 n.&v.购买
+pursue	 v.追；追求；从事
+qualitative	 a.质的；定性的
+quote	 v.引用
+radical	 a.基本的；激进的
+random	 n.&a.随机
+range	 n.范围；山脉；炉灶 v.排列
+ratio	 n.比
+rational	 a.理性的；合理的
+react	 v.反应
+recover	 v.恢复；挽回
+refine	 v.提炼
+regime	 n.政权；制度
+region	 n.地区；领域
+register	 n.&v.登记；注册；挂号 n.登记簿
+regulate	 v.调整
+reinforce	 v.增援；加强
+reject	 v.拒绝
+relax	 v.使放松
+release	 v.&n.释放；公布
+relevant	 a.相关的
+reluctance	 n.勉强
+rely	 v.依靠；信赖
+remove	 v.移开；搬迁；消除
+require	 v.需要；要求
+research	 n.研究
+reside	 v.居住
+resolve	 v.解决；决心 n.决心
+resource	 n.资源；谋略
+respond	 v.回答；响应
+restore	 v.恢复；归还
+restrain	 v.抑制
+restrict	 v.限制
+retain	 v.保持；保留
+reveal	 v.显示；告诉
+revenue	 n.税收
+reverse	 v.颠倒 n.相反；背面
+revise	 v.修订
+revolution	 n.革命；旋转
+rigid	 a.刻板的
+role	 n.角色；作用
+route	 n.路线
+scenario	 n.剧本；方案
+schedule	 n.时间表
+scheme	 v.计划 n.方案；诡计
+scope	 n.范围
+section	 n.部分；截面
+sector	 n.扇形；部门
+secure	 a.安全的 v.获得
+seek	 v.寻找；试图
+select	 v.选择
+sequence	 n.顺序；连续
+series	 n.系列
+sex	 n.性别；性
+shift	 v.&n.转移
+significant	 n.有意义的；重要的
+similar	 a.相似的
+simulate	 v.假装；模仿
+site	 n.地点；场所
+so-called	 a.所谓的
+sole	 n.脚底；鞋底 a.唯一的
+somewhat	 ad.有点
+source	 n.源；来源
+specific	 a.具体的；特有的
+specify	 v.指定；详细说明
+sphere	 n.球；领域
+stable	 a.稳定的 n.马厩
+statistic	 a.统计的
+status	 n.地位
+straightforward	 a.坦率的；明确的
+strategy	 n.战略；策略
+stress	 n.压力；重音 v.强调
+structure	 n.结构；建筑物
+style	 n.风格
+submit	 v.服从；提交
+subordinate	 a.下级的；从属的 n.部下
+subsequent	 a.随后的
+subsidy	 n.补助；津贴
+substitute	 n.代替者 v.代替
+successor	 n.继任者
+sufficient	 a.足够的
+sum	 n.总数；金额 v.总计
+summary	 n.概要 a.概括的
+supplement	 n.增刊；补遗 v.增补；补充
+survey	 v.俯瞰；测量；调查 n.俯瞰；测量；调查
+survive	 v.幸存
+suspend	 v.悬挂；推迟
+sustain	 v.保持；忍受 
+symbol	 n.象征；符号
+tape	 v.捆；录(磁带) n.带子；磁带
+target	 n.靶子；目标
+task	 n.任务
+team	 n.队；团队 v.协作
+technical	 a.技术的
+technique	 n.技术；技巧
+technology	 n.技术
+temporary	 a.暂时的；临时的
+tense	 n.时态 a.绷紧的
+terminate	 v.终止
+text	 n.正文,文本
+theme	 n.主题
+theory	 n.理论
+thereby	 ad.从而
+thesis	 n.论文；论点
+topic	 n.话题
+trace	 n.痕迹 v.追踪
+tradition	 n.传统
+transfer	 v.&n.转移；换车；调动
+transform	 v.转变；改革
+transit	 n.通过；运输；过渡
+transmit	 v.传播；传递
+transport	 n.&v.运输
+trend	 n.趋势
+trigger	 v.引发 n.板机
+ultimate	 a.最终的；根本的
+undergo	 v.经历
+underlie	 v.是…的基础
+undertake	 v.接受；从事
+uniform	 a.一样的 n.制服
+unify	 v.统一
+unique	 a.独一无二的
+utilize	 v.利用
+valid	 a.有效的；正当的
+vary	 v.变化；使多样化
+vehicle	 n.车辆
+version	 n.译文；说法
+via	 prep.经由
+violate	 v.违犯
+virtual	 a.实际上的
+visible	 a.可看见的
+vision	 n.视力；眼光
+visual	 a.视觉的
+volume	 n.卷，册；体积；额；音量
+voluntary	 a.自愿的
+welfare	 n.福利
+whereas	 conj.而
+whereby	 ad.由此
+widespread	 a.普遍的
